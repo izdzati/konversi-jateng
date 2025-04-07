@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "konversi-jateng",
+  "private_key_id": "984cb852b8ddb58f9b1edf7787808b5a4381c70c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCiQ0oetD5RDcro\nC9lBbeuKi/yuJjM+1K0X32qyuBaGMOp4RDynMZSNiOualzZZrKH1cTgpZ1j4kcza\nus6Z/Ty7lGG0PVhjGc0Io8STW2d4OTY2bIS3Vhi4fjaK8D12D21uqvU1ovXoF4G0\nFE8H0pL+BviGDw06f1yOUa6gucikA9F46LKH+1gtCdsDRHasJLBgQeoK7qoc9AA5\ndtR4QapMnmDLtGGLu7TOvJsYQyAYTTbV28U8dFnaRjTbI6qCsqprMkWxnPZ48Sbj\n4A286CbdGSJ8Mcp9XyK8xWZbdxEKeHfOCQ0ky9hIDV9gjOZkIzFhliE+b9gCXbbj\ngcvFaIG3AgMBAAECggEALsX92i7z3bJ/oHc156XzZUsoCd1KHVz6Dm0hGSZ2m7UD\nCasF3t4sZ8YlwDjBeoUIZLN/0HORkomYxx5dSsdUV/AUX/vk/CAmWcy3cBDDmUTI\nq1SJxz2Cv7/mIhPRa7RTw7h1GcKBZydLhKjsBSG+rIo+3on9MrUe7Yl/MKaNPzXC\ntHGQbpkhR02wwZ1w2gk7k4hwmtVipOW5gKJ0AZ2mRmCnOj0yioLvSc6KFH9bcH+p\nY08N5pwGZifDZ1xlCKnZOSPDeiwvE+DVedpLldE9SCqauXqaNx65e2apU7GPdYjy\nPgHVwSUu/BBwRPgH8HH7XSQvzZhzHJh6BuaZgD5DqQKBgQDcLFcMrdultO8HsiTD\n79G7jF4eunZBzBTAtOvZC8Wu1KhDItE3FuWjT4xTuZGNU/r/LjZveVuaD1Skgsj4\npL5xundza5MLVc5mqiggrc30RnebkGBMzh5Zuws0oANfcuana+1kA6l6NFQZpQUe\nv2cBf6vp9bx/4nLNKKVnLX0R6QKBgQC8qppZbbihH+vwHZRkxtMyA5GsQGfa65Rh\nPBYAKK+q5MHSJB1x+CV5OhuKWHYEaHh8tiVxp525x8i04kefguR00Qybddu4MqxZ\ns8veBApOwW1BWU54RlI5WaULc9KQC4w09bt6eS7jDOGoJf8/UDRhfcPah6YMPq8j\nONR1yrgSnwKBgBZnmLAcnQZexBgnY6BgrhoEras41EHbz5zQjFN45DPnRfwW9e1C\nMjoNJT1727ji+96tyDJNyimCN93JxUOwGAUgsXkYUE1N/QPresvgg93Asfktlu8Z\n5nLBGuHPCqjS22/cBrsvuDZMTuaRKVU4qvW3FTponDbzRzVjVnmKYnjJAoGAULBy\nVP8NMLQTV11/Qt6aItDN86qUAFgy3KczDZxZDTDLCFHz2fN0K3XDo5aT2uzHYycP\nup0iYvtkBqCkWz9C8Accajys3QmnFrJD5c86jVZCoOlOGziQIAEMCmrdykd2Doxu\nQ0Ii4G548E5X7T8jN/Lu2b6cMK56fwjmLP6nXScCgYAbW+o4xS0QsxZCzrRc9Oqd\nmadx5siYUrJdGNJeHX/L+bM7QrqC17W+2u9FH8O2BWpnPRLQC1CQ1fLj9f9Arn8X\nGynQSCI2XFBQuwaKGw/hI6COPKYpKWkxp/+c4wcSS+q6FchaY69N/rpSJdKb6RE0\nlPN57fuDSqc5riQVCFfdlw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "konversi@konversi-jateng.iam.gserviceaccount.com",
+  "client_id": "112794628482974012095",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/konversi%40konversi-jateng.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
