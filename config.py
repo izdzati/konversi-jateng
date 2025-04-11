@@ -1,16 +1,13 @@
-import streamlit as st
 import gspread
-import json
 from google.oauth2.service_account import Credentials
 
+# Load Credentials dari JSON
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets", "https://www.googleapis.com/auth/drive"]
+creds = Credentials.from_service_account_file("/content/Konversi/konversi-jateng-984cb852b8dd.json", scopes=SCOPES)
 
-service_account_info = st.secrets["gcp_service_account"]
-
-
-# Autentikasi
-creds = Credentials.from_service_account_info(service_account_info, scopes=SCOPES)
+# Autentikasi ke Google Sheets
 client = gspread.authorize(creds)
 
+# Akses Google Sheet
 SHEET_NAME = "KONVERSI JATENG"
 sheet = client.open(SHEET_NAME).sheet1
